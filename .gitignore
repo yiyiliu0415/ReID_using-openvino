@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+
+# 推理产物与输入数据
+data_output/
+video_input/
+target_input/
+
+# 模型权重（见 README 从网盘获取）
+model/
+
+.vscode/
+.idea/
+.DS_Store
